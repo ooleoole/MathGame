@@ -1,0 +1,16 @@
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\bin\Debug\RäknaProgramTilde.exe.config
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\bin\Debug\RäknaProgramTilde.exe
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\bin\Debug\RäknaProgramTilde.pdb
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\RäknaProgramTilde.csprojResolveAssemblyReference.cache
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\MainWindow.g.cs
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\App.g.cs
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\RäknaProgramTilde_MarkupCompile.cache
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\RäknaProgramTilde_MarkupCompile.lref
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\MainWindow.baml
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\RäknaProgramTilde.g.resources
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\RäknaProgramTilde.Properties.Resources.resources
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\RäknaProgramTilde.csproj.GenerateResource.Cache
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\RäknaProgramTilde.exe
+c:\users\ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\RäknaProgramTilde.pdb
+C:\Users\Ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\StartMenu.g.cs
+C:\Users\Ola\documents\visual studio 2015\Projects\RäknaProgramTilde\RäknaProgramTilde\obj\Debug\StartMenu.baml
